@@ -1,7 +1,7 @@
 {
-  "name": "ethereum-fundamentals-first-dapp",
+  "name": "ethereum-fundamentals-firstdapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "README",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
